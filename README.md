@@ -4,7 +4,7 @@
 
 1) Create a new account in https://repl.it/
 
-2) Create or clone files from the repository.
+2) Create or clone files from the repository. (cloning only the main.py file would be sufficient)
 
 3) Generate API Key and API HASH from  https://my.telegram.org, for more information visit https://core.telegram.org/api/obtaining_api_id.
 
