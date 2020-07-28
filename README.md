@@ -1,6 +1,6 @@
 # String Session Generator
 
-[![Run on Repl.it](https://repl.it/badge/HastyCornsilkRecovery.loda6969.repl.run)](https://HastyCornsilkRecovery.loda6969.repl.run)
+[![Run on Repl.it](https://repl.it/badge/github/death-angel-141/String-Session-Generator)](https://HastyCornsilkRecovery.loda6969.repl.run)
 
 # Make Your Own 
 
