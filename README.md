@@ -1,6 +1,6 @@
 # String Session Generator Exclusively for Telegram Bot Developers
 
-## Demo (For testing and also for noobs)
+## Demo (For testing and also for NooBs)
 [![Run on Repl.it](https://repl.it/badge/github/death-angel-141/String-Session-Generator)](https://HastyCornsilkRecovery.loda6969.repl.run)
 
 # Make Your Own Session Generator
