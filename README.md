@@ -1,4 +1,4 @@
-# String Session Generator Exclusively for Telegram Bot Developers
+# String Session Generator Exclusively for Bot Developers
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
