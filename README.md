@@ -1,4 +1,7 @@
 # String Session Generator Exclusively for Telegram Bot Developers
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<a href="https://www.python.org/"><img alt="language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"/></a>
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
 
 ## Demo (For testing and also for NooBs)
 [![Run on Repl.it](https://repl.it/badge/github/death-angel-141/String-Session-Generator)](https://HastyCornsilkRecovery.loda6969.repl.run)
