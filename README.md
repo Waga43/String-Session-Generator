@@ -3,7 +3,7 @@
 ## Demo (For testing and also for NooBs)
 [![Run on Repl.it](https://repl.it/badge/github/death-angel-141/String-Session-Generator)](https://HastyCornsilkRecovery.loda6969.repl.run)
 
-# Make Your Own Session Generator
+## Make Your Own Session Generator
 
 1) Create a new account in https://repl.it/
 
