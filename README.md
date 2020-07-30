@@ -6,7 +6,10 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 ## Demo (For testing and also for NooBs)
-[![Run on Repl.it](https://repl.it/badge/github/death-angel-141/String-Session-Generator)](https://HastyCornsilkRecovery.loda6969.repl.run)
+
+**String Session** [![Run on Repl.it](https://repl.it/badge/github/death-angel-141/String-Session-Generator)](https://HastyCornsilkRecovery.loda6969.repl.run) 
+
+**Drive Token** [![Run on Repl.it](https://repl.it/badge/github/death-angel-141/String-Session-Generator)](https://CraftySeagreenMethod.loda6969.repl.run)
 
 ## Make Your Own Session Generator
 
